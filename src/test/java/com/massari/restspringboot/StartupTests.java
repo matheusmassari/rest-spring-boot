@@ -8,6 +8,7 @@ class StartupTests {
 
     @Test
     void contextLoads() {
+        assert(true);
     }
 
 }
